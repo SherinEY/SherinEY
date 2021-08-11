@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sherin Mon Mathew
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently Working @ EY (Ernst & Young)
 - 💞️ I’m looking to collaborate on my EY FS team projects
 - 📫 Reach me at sherinmonmathew@gmail.com
